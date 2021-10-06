@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    background-color:blue;
+    color:khaki;
+}
+.p1 {
+    background-color: chartreuse;
+    color:deeppink;
+}
+h2 {
+    background-color: crimson;
+    color:deepskyblue;
+}
+.p2 {
+    background-color: darkgreen;
+    color:gold;
+}
+ol {
+    background-color: darkorange;
+    color:lightgreen;
+}
